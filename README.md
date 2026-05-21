@@ -1,3 +1,5 @@
+<img width="1801" height="873" alt="Firmware_Hunter" src="https://github.com/user-attachments/assets/82f2e151-5b34-4140-88ca-e20d9f5ab0e5" />
+
 # Firmware Hunter Pro
 
 Firmware Hunter Pro is an offline firmware analysis and triage tool designed for embedded Linux devices such as:
