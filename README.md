@@ -330,13 +330,7 @@ The tool is intended as a triage and research aid, not a replacement for manual 
 
 ---
 
-# Safety
-
-Recommended environment:
-
-* Linux VM
-* Isolated lab system
-* Non-production environment
+# Safety 
 
 Avoid running analysis tools on sensitive production systems.
 
